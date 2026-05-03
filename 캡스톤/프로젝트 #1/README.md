@@ -23,6 +23,7 @@
 pip install torch torchvision torchaudio
 pip install timm opencv-python Pillow
 
+
 ## 실행 방법
 
 # 1.저장소를 클론하거나 코드를 다운로드합니다.
