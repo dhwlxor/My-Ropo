@@ -27,16 +27,4 @@
 
 ---
 
-## 📂 저장소 구조 (Directory Structure)
-*(※ 학기별/과목별 폴더 구조를 아래와 같이 명시해 두면 방문자가 코드를 찾기 훨씬 수월합니다.)*
 
-```text
-├── 2025_1st_Semester/
-│   ├── Deep_Learning_in_Practice/
-│   └── Practical_Image_Processing/
-├── 2025_2nd_Semester/
-│   ├── Apprentice_Project/
-│   └── Industrial_Big_Data_Analytics/
-└── 2026_1st_Semester/
-    ├── Intelligent_Capstone_Project/
-    └── Practical_Industrial_Computer_Vision/
