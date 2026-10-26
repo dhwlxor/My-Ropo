@@ -25,6 +25,10 @@
 * **산업 컴퓨터비전 실제** `전공심화`
   * *Practical Industrial Computer Vision*
 
----
+### ● 2026년 2학기 (1st Semester, 2026)
+* **지능화 파일럿 프로젝트** `전공공통`
+  * *Intelligent Pilot Project*
+* **연구윤리 및 연구과제Ⅰ** `연구과제`
+  * *Research Ethics and Research Projects I*
 
 
