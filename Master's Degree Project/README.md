@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 주요 특징 (Key Features)
+## 주요 특징 (Key Features)
 
 - **하이브리드 초점 평가 알고리즘 (Sobel 70% + Laplacian 30%)**:
   - 1차 미분 기반 Tenengrad(Sobel)와 2차 미분 기반 Laplacian Variance를 결합한 복합 점수 산출
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ 광학계 및 알고리즘 사양
+## 광학계 및 알고리즘 사양
 
 - **광학계 구성**: $f=500\text{mm}$ 이중 렌즈 콜리메이터 지그 (가상 거리 $Z_{virtual} \approx 125\text{m}$ 모사)
 - **타깃 차트**: ISO 12233 & Siemens Star Chart
@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 시작하기 (Getting Started)
+## 시작하기 (Getting Started)
 
 ### 1. 요구 사항 (Prerequisites)
 
